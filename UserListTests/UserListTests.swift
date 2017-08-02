@@ -46,7 +46,7 @@ class UserListTests: XCTestCase {
         waitForExpectations(timeout: 5, handler: nil)
     }
     
-    func testExample() {
+    func testUsersCount() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         
